@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (3.2.0)
+  - Crashlytics (3.7.0):
+    - Fabric (~> 1.6.3)
+  - Fabric (1.6.6)
+  - Locksmith (2.0.8)
+  - SwiftSpinner (0.8.0)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - Crashlytics
+  - Fabric
+  - Locksmith
+  - SwiftSpinner
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 01491d65cd8bf6c8de3906eb1c08325e9911fd46
+  Crashlytics: ccec32df3da65c7e21b4f2491a29cc8faed07d1c
+  Fabric: 3807b5d1ac34ee2afd3766c9dcab1db98fa8a04e
+  Locksmith: 665acf2a79d8342aa6df961caac062da199686e5
+  SwiftSpinner: 11c2c5ec7443d92f3026d3067ca8a91d4adef13f
+  SwiftyJSON: 666c60f510aa7fbf6397a55bcc1000d1658f653d
+
+COCOAPODS: 0.39.0
